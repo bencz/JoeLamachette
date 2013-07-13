@@ -3,7 +3,6 @@ JoeLamachette
 
 Joe LaMachette is an unpublished platform game for MS-DOS.
 
-
 Description
 ========================
 
@@ -23,3 +22,9 @@ How to play
 If you do not have a real or virtual machine capable of running native DOS programs, I recommend using DOSBox, a nice x86 DOS emulator.
 In DOSBox, you should increase the CPU cycles to around 20000 (by pressing ctrl-F12 several times), 
 otherwise the game will be really slow. You can type the following cheat codes during the game if necessary:
+
+
+Fork
+====
+
+Forked from: https://sites.google.com/site/joelamachette/home/joelamachettevideogame
