@@ -15,8 +15,7 @@ written in Turbo Pascal. When drawing the main character, I tried to replicate t
 game developed by Virgin Interactive Entertainment. Some of the sound effects were recorded by me, whereas others 
 were produced by editing sound files taken from different sources. Although I wrote the sound engine 
 (this part is actually a .mod player and represents half the source code of the game), 
-the background music was not composed by me; it comes from a few freeware music files I had back then." 
-(Stéphane Pelletier, https://sites.google.com/site/joelamachette/home/joelamachettevideogame )
+the background music was not composed by me; it comes from a few freeware music files I had back then." (Stéphane Pelletier, https://sites.google.com/site/joelamachette/home/joelamachettevideogame )
 
 How to play
 ===========
