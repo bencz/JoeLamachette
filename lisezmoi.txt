@@ -1,0 +1,70 @@
+ÉÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ»
+º                             JOE  LAMACHETTE                              º
+º                              (version 1.3)                               º
+º                                                                          º
+º  * Programm‚ en assembleur                                               º
+º  * Compil‚ avec Turbo Assembler 3.2 de Borland                           º
+º  * Utilise la librairie ITSD (Interface de Traitement des Sons Digitaux) º
+º     d‚velopp‚e pas St‚phane Pelletier                                    º
+º  * DerniŠre modification : 23/04/98                                      º
+º                                                                          º
+ÈÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍÍ¼
+
+1- MATERIEL REQUIS POUR UTILISER LE PROGRAMME
+
+    - PC ‚quip‚ d'un microprocesseur 80386 ou plus (80486 66MHZ recommand‚).
+    - Gestionnaire EMM386 install‚ (pour ex‚cuter en mode MS-DOS)
+    - Carte Sound Blaster ou compatible (facultatif)
+
+2- COMMENT LANCER LE JEU
+
+    - A l'invite DOS, tapez Joe [ENTREE]
+    - A partir de Windows95, cliquez sur D‚marrez puis Ex‚cuter.
+      Allez dans le r‚pertoire o— JOE est install‚ et appuyez sur ENTREE.
+
+3- COMMENT JOUER
+
+       Dans le menu principal, placez le curseur … l'item Jouer (en
+    utilisant les flŠches) et appuyez sur ENTREE.
+
+       D‚placez Joe avec les touches d‚finies dans le menu Options (voir
+    item 4). Le but du jeu est assez simple. Il vous faut trouver trois
+    cl‚s qui vous permettront d'ouvrir des portes, dans le but de vous
+    rendre … la fin du tableau. Vous pouvez gagner des points en touchant
+    certains objets (cerises, lingots, ...) et aussi r‚cup‚rer de l'‚nergie
+    (flammes tournantes). Vous pouvez tuer les ennemis en frappant dessus
+    avec votre machette (sauf les rhinoc‚ros, par dessus lesquels vous
+    devez sauter). Chaque cl‚ ouvre la porte de la mˆme couleur qu'elle.
+    Vous pouvez appuyer sur ESC en tout temps pour revenir au menu principal.
+
+4- MENU OPTION
+
+       Dans le menu principal, placez le curseur … l'item Options (en
+    utilisant les flŠches) et appuyez sur ENTREE
+
+       A l'int‚rieur du menu Options, vous pouvez rendre actifs ou inactifs
+    les sons ou la musique (en appuyant sur ENTREE). De plus, vous pouvez
+    d‚finir les touches de contr“le du personnage. Pour ce faire, vous n'avez
+    qu'… appuyer sur ENTREE vis-…-vis l'action … changer. Ensuite, appuyez
+    sur la nouvelle touche d'action. Son nom apparaŒtra … droite du nom de
+    l'action. Appuyez sur ESC pour quitter le menu Options.
+
+5- CODES
+
+       Afin de rendre le jeu plus facile, vous pouvez taper ces codes durant
+    le jeu :
+
+       - INVIN : JOE deviendra invincible. Pour redevenir vuln‚rable,
+                 tapez … nouveau INVIN.
+       - CLES : Toutes les cl‚s seront … votre disposition.
+
+6- DROITS D'AUTEURS
+
+       Ce jeu est un programme du domaine public. Vous pouvez donc le copier
+    librement. Il est interdit de le vendre pour quelque raison que ce soit.
+
+
+
+Pour plus d'information, vous pouvez me contacter … l'adresse suivante:
+
+stephane.pelletier@polymtl.ca
